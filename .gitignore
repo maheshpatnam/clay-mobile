@@ -1,0 +1,32 @@
+# Maven target directory
+/target/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+
+# Appium logs
+/logs/
+
+# Gradle files
+.gradle/
+/build/
+
+# TestNG files
+test-output/
+
+# Eclipse files
+*.launch
+*.recommenders
+.settings/
+
+# Other files
+.DS_Store
+*.log
+*.log.*
+*.swp
+*~
