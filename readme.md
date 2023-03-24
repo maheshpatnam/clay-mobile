@@ -1,6 +1,5 @@
-# Appium-PageObject-Mobile-Automation
+# Clay-Mobile-Automation
 
-Appium-PageObject-Java-Mobile-Automation-Framework
 
 **1. Clone the application**
 
