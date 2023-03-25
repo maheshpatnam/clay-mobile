@@ -17,7 +17,7 @@
 ##### actionHelper : In this package common Android functions is present
 
 ```bash
-AndroidHelperMethods : All the common Android functions is present in this class like click(),Scroll(),Enter() etc.
+ReusableMethods : All the common Android functions is present in this class like click(),Scroll(),Enter() etc.
 ```
 ##### DriverManager : In this package We are handling drivers initialization.
 
