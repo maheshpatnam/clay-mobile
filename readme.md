@@ -67,7 +67,7 @@ BaseTest :In this class we have initialize drivers and all the pages.
 - Continous Integration.
 - report with screenshots and videos if required.
 - Impliemnations of fixtures.
-- Add test selectors instead of using xpaths.(Need to check front end code base).
+- Add test selectors instead of using xpaths
 - Retry on failure.
 - Run on different mobile devices.
 - Parallelism and sharding.
