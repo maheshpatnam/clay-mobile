@@ -71,5 +71,4 @@ BaseTest :In this class we have initialize drivers and all the pages.
 - Retry on failure.
 - Run on different mobile devices.
 - Parallelism and sharding.
-- we need to add IDs also in FE code base for QA
 - Integration with browserstack or saucelabs
