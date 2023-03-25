@@ -61,3 +61,15 @@ HomePage,Login Page :In this class we have all the locators and associated metho
 
 ```bash
 BaseTest :In this class we have initialize drivers and all the pages.
+
+### Following points can be improved in future :
+
+- Continous Integration.
+- report with screenshots and videos if required.
+- Impliemnations of fixtures.
+- Add test selectors instead of using xpaths.(Need to check front end code base).
+- Retry on failure.
+- Run on different mobile devices.
+- Parallelism and sharding.
+- we need to add IDs also in FE code base for QA
+- Integration with browserstack or saucelabs
