@@ -7,8 +7,8 @@
 **2. Import project in any Editor(Intellij)**
 
 **3. Run appium desktop on localhost and 4723 port**
-
-**4. Run testCase.xml**
+**4. put SALTO_KS_base.apk file in apk folder**
+**5. Run testCase.xml**
 
 
 ## Project Structure
